@@ -62,8 +62,8 @@ B.Tech graduate passionate about transforming raw data into meaningful insights 
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/jayant-bhoyar-b66113257/]
-- **Email:** [jayantbhoyar1234gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/jayant-bhoyar-b66113257/
+- **Email:** jayantbhoyar1234gmail.com
 
 ---
 
