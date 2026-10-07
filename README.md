@@ -1,70 +1,14 @@
-# Hi, I'm Jayant Bhoyar 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-rauthan-1815a5415/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ANKITRTH81945@GMAIL.COM) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://ankittrtth1441-portfolio.netlify.app/)
 
-### Data Analyst | SQL | Power BI | Python | PostgreSQL | Excel
-
-B.Tech graduate passionate about transforming raw data into meaningful insights and building data-driven solutions.
-
----
-
-## 🛠️ Technical Skills
-
-- **SQL:** MySQL, PostgreSQL, SQL Server
-- **Python:** Pandas, NumPy, Matplotlib
-- **BI & Analytics:** Power BI, DAX, Power Query
-- **Databases:** PostgreSQL, MySQL, SQL Server
-- **Data Engineering:** ETL, Data Cleaning, Data Validation
-- **Excel:** Advanced Excel, XLOOKUP, Power Query
-- **Tools:** Git, GitHub, Jupyter Notebook, Streamlit
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AnkitRauthan1441&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AnkitRauthan1441&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkitRauthan1441&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AnkitRauthan1441&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Featured Projects
-
-### 🔹 Solar Energy Service Sales Analysis
-**Python | SQL | PostgreSQL | Power BI | Excel**
-
-- Analyzed solar service sales and customer data
-- Performed data cleaning and transformation using Python
-- Used SQL for business analysis
-- Built an interactive Power BI dashboard
-- Analyzed revenue, installations, profitability and regional performance
-
-### 🔹 Football Analytics ETL Pipeline
-**Python | PostgreSQL | SQL | Streamlit**
-
-- Built an ETL pipeline using Python and Pandas
-- Extracted, transformed and loaded football datasets
-- Stored processed data in PostgreSQL
-- Performed data validation and quality checks
-- Developed a Streamlit analytics dashboard
-
-### 🔹 SQL Business Analytics
-**MySQL | PostgreSQL**
-
-- Complex JOIN operations
-- CTEs and subqueries
-- Window functions
-- Ranking analysis
-- Aggregations and business KPIs
-- Customer and sales analysis
-
----
-
-## 🎯 Currently Learning
-
-- Advanced SQL
-- Data Engineering
-- Power BI & DAX
-- ETL Pipelines
-- Cloud Data Technologies
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/jayant-bhoyar-b66113257/
-- **Email:** jayantbhoyar1234gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
